@@ -1,0 +1,33 @@
+.card{
+    background-color: #363636;
+    border-radius: 10px;
+    height: fit-content;
+    padding: 1em;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    width: 13em;
+    color: wheat;
+    border: solid wheat;
+    min-width: 250px;
+    min-height: 390px;
+}
+.img{
+    width: 240px;
+    height: 170px;
+    border-radius: 10px;
+}
+.list{
+    list-style-image: url(../../Images/controller.png);
+    padding: 1px 100px;
+}
+.btn{
+    font-family: Arial;
+    font-weight: bold;
+    background-color: #008CBA;
+    border-radius:5px;
+    color: wheat;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    border: 2px solid wheat;
+}

@@ -1,0 +1,23 @@
+.button {
+    position: center;
+    top:50%;
+    background-color:#e7cd3b;
+    color: rgb(0, 0, 0);
+    border:solid black; 
+    border-radius:15px; 
+    padding:30px;
+    min-height:30px; 
+    min-width: 120px;
+    font-weight: bold;
+  }
+
+.div {
+    align-items: center;
+    padding: 400px 0;
+}
+
+.play{
+  color: #2596be;
+  text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+               1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}

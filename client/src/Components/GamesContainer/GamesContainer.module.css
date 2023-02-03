@@ -1,0 +1,65 @@
+.container{
+    background-color: #00425A; 
+    gap: 1em;
+    padding: 50px 0;
+}
+.cards{
+    align-items:flex-start;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 100px 50px;
+}
+.pagebtn {
+    font-family: Arial;
+    font-weight: bold;
+    background-color: #008CBA;
+    border-radius: 10px;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.currentpage{
+    display: inline;
+    font-family: Arial;
+    font-weight: bold;
+    background-color: whitesmoke;
+    padding: 15px 32px;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+.checks{
+    display: inline-flex;
+    color: wheat;
+    font-weight: bolder;
+}
+.check{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.dropdown{
+    color: wheat;
+    background-color: #00425A;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 1em;
+    border: 2px solid wheat;
+}
+.btn{
+    font-family: Arial;
+    font-weight: bold;
+    background-color: #008CBA;
+    border-radius: 10px;
+    color: wheat;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 1em;
+}

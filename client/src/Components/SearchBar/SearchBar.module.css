@@ -1,0 +1,42 @@
+.btn {
+    font-family: Arial;
+    font-weight: bold;
+    background-color: #008CBA;
+    border-radius: 10px;
+    color: wheat;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.btn::before{
+    background-color: red;
+}
+.searchandcreate {
+    display: flex;
+    justify-content: space-around;
+    color: wheat;
+}
+.all{
+    background-color: #363636;
+    border: 4px solid wheat;
+    padding: 10px;
+    color: wheat;
+    font-weight: bolder;
+}
+.it{
+    width: 50%;
+    height: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.checks{
+    display: inline-flex;
+}
+.check{
+    margin-left: 10px;
+    margin-right: 10px;
+}
